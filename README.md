@@ -15,7 +15,7 @@ or
 * Octave corresponding version for free
 
 ## Setup
-Running this project requires you to have all m-files in the same directory
+Running this project requires you to have all m-files in the same directory.
 
 ## Example of use
 This is quick video presentation of generator in action. It also prints names of each chord so user can quickly translate it to his musical instrument.
